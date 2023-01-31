@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jrlessadev/Node/issues"
   },
-  "homepage": "https://github.com/jrlessadev/Node#readme"
+  "homepage": "https://github.com/jrlessadev/Node#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
 }
